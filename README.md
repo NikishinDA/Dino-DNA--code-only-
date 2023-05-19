@@ -21,7 +21,7 @@ Preview:
 
 https://youtu.be/rIRPFjFncHg
 
-![image_003_0000](https://github.com/NikishinDA/Dino-DNA--code-only-/assets/60629320/e24fbb78-afa3-4f92-8e3d-a76355ded6c3)
-![image_005_0000](https://github.com/NikishinDA/Dino-DNA--code-only-/assets/60629320/cd0b541d-d49b-42ef-9c0e-310dbc8871dc)
-![image_001_0000](https://github.com/NikishinDA/Dino-DNA--code-only-/assets/60629320/555f2327-8f28-4189-90a5-347f9ba43e46)
-![image_002_0000](https://github.com/NikishinDA/Dino-DNA--code-only-/assets/60629320/f041dd35-5950-465e-94b0-9cf4317fa6dd)
+![preview-1](Previews/image_001_0000.jpg)
+![preview-2](Previews/image_002_0000.jpg)
+![preview-3](Previews/image_003_0000.jpg)
+![preview-4](Previews/image_005_0000.jpg)
